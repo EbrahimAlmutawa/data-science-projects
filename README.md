@@ -13,26 +13,12 @@ Each project lives in its own folder, named for the project:
 ```
 data-science-projects/
 ├── project-01-name/
-│   ├── README.md          ← what the project does, what I learned
-│   ├── data/               ← raw or sample data (or a link if too large)
-│   ├── notebook.ipynb      ← the actual analysis
-│   └── images/              ← charts/screenshots used in the README
+│
 ├── project-02-name/
-│   └── ...
+└── ...
+│
 └── README.md               ← you are here
 ```
-
-Every project folder has its own README explaining the question I was exploring, the approach, and the results — so each one can be read on its own.
-
----
-
-## 🗂️ Projects
-
-| # | Project | Description | Tools | Status |
-|---|---------|-------------|-------|--------|
-| 01 | _Coming soon_ | | | 🚧 Planning |
-
-*This table gets a new row every time a project is added.*
 
 ---
 
